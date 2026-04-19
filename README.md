@@ -1,0 +1,2 @@
+# stripedoc
+Stripe Implemetation Guide
